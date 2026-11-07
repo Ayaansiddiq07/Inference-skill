@@ -1,0 +1,3 @@
+interface:
+  display_name: "Inference Engineering"
+  short_description: "Design and optimize production AI inference"
